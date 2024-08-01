@@ -179,7 +179,7 @@ OwnerLabel.TextScaled = true
 
 
 local isAutoClickerOn = false
-local clickInterval = 1/200 
+local clickInterval = 1/1500 
 
 
 local function pressKey(key)
